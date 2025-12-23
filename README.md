@@ -280,15 +280,6 @@ This is a portfolio project. For improvements or suggestions:
 
 ---
 
-## 📧 Contact
-
-**Sneha** - MSc Bioinformatics Student  
-[Your Email] | [Your LinkedIn] | [Your Twitter]
-
-Ready for biotech and pharmaceutical roles in drug discovery! 🚀
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License** - see the LICENSE file for details.
